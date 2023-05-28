@@ -1,1 +1,3 @@
 # ANSYSEM_PYTHON
+# ANSYS Maxwell
+# ANSYS HFSS
